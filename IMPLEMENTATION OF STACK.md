@@ -38,7 +38,7 @@ stack.pop()
 print('\nStack after elements are popped:')
 print(stack)
 ```
-###output
+### output
 ![image](https://github.com/user-attachments/assets/d8f4e3d1-fab2-4457-972f-51cb8c5599f4)
-###result
+### result
 Thus,the given python program is implemented and sucessfully.
