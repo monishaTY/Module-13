@@ -23,7 +23,7 @@ To write a Python program to evaluate a user-given Postfix expression that conta
 6. Take a postfix expression as input from the user.
 7. Print the postfix expression.
 8. Call the function `evaluate_postfix()` with the input and print the result.
-9. **End the program.**
+9. End the program.
    
 ### PROGRAM
 
