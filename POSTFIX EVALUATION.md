@@ -20,6 +20,7 @@ To write a Python program to evaluate a user-given Postfix expression that conta
 7. Print the postfix expression.
 8. Call the function `evaluate_postfix()` with the input and print the result.
 9. **End the program.**
+   
 ### PROGRAM
 
 ```
@@ -46,5 +47,6 @@ print("Evaluation result: ",evaluate_postfix(expression))
 
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/20c63e8a-ea3c-4037-82ac-507a3f1409c0)
+
 ### RESULT
 The program evaluates the given postfix expression using stack operations and displays the final result.
