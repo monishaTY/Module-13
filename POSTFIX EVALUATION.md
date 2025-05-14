@@ -2,8 +2,11 @@
 ## POSTFIX EVALUATION
 
 ### AIM  
+
 To write a Python program to evaluate a user-given Postfix expression that contains Multiplication and Addition operators using the stack concept.
+
 ### ALGORITHM
+
 1. **Start the program.**
 2. Define a set named `OPERATORS` containing all the valid operators: `*, +, **, -, /, %`.
 3. Define a function `evaluate_postfix(exp)` to evaluate the postfix expression:
@@ -39,10 +42,10 @@ def evaluate_postfix(expression):
                 res=int(b)*int(a)
             stack.append(res)
     return stack[0]   
-
 expression = input()
 print("postfix expression: ",expression)
 print("Evaluation result: ",evaluate_postfix(expression))
+
 ```
 
 ### OUTPUT
