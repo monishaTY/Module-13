@@ -52,7 +52,7 @@ print("Evaluation result: ",evaluate_postfix(expression))
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/20c63e8a-ea3c-4037-82ac-507a3f1409c0)
+![image](https://github.com/user-attachments/assets/b1696fc9-5f26-4364-a5ea-654129ee79b9)
 
 ### RESULT
 
