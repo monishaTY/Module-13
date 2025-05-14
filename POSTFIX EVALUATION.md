@@ -46,7 +46,9 @@ print("Evaluation result: ",evaluate_postfix(expression))
 ```
 
 ### OUTPUT
+
 ![image](https://github.com/user-attachments/assets/20c63e8a-ea3c-4037-82ac-507a3f1409c0)
 
 ### RESULT
+
 The program evaluates the given postfix expression using stack operations and displays the final result.
